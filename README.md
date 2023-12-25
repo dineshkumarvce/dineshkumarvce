@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <html>
-<img src="dineshkumarvce/dineshkumarvce/hussam-abd-k1L77eGXZss-unsplash.jpg">
+<img src="">
 </html>
